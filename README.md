@@ -3,9 +3,9 @@
 This repository contains five lab experiment reports in DOCX format.
 
 ## Experiments
-- [Experiment 1: ETK Imager](Exp1_FTK_Imager.docx)
-- [Experiment 2: TestDisk Recovery](Exp2_Testdisk.docx)
-- [Experiment 2: WireShark](Exp4_Wireshark.docx)
-- [Experiment 4: Message Header Analysis](Exp4_MHA.docx)
-- [Experiment 5: Autopsy Forensics](Exp5_Autopsy.docx)
+- [Experiment 1: ETK Imager](FTK_Imager.docx)
+- [Experiment 2: TestDisk Recovery](Testdisk.docx)
+- [Experiment 2: WireShark](Wireshark.docx)
+- [Experiment 4: Message Header Analysis](MHA.docx)
+- [Experiment 5: Autopsy Forensics](Autopsy.docx)
 
